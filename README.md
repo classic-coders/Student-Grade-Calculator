@@ -56,10 +56,8 @@ This Java project is a console-based application designed to calculate and manag
 
 **Usage Instructions**
 
-**Clone the Repository:**
-
-git clone https://github.com/yourusername/StudentGradeCalculator.git
-cd StudentGradeCalculator
+**Clone the Repository**
+https://github.com/classic-coders/Student-Grade-Calculator.git
 
 **Compile and Run:**
 
